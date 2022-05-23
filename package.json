@@ -1,0 +1,25 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "challenge 10",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kimmy-hill/TPG-10.git"
+    },
+    "author": "kh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kimmy-hill/TPG-10/issues"
+    },
+    "homepage": "https://github.com/kimmy-hill/TPG-10#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^28.1.0"
+    }
+}
