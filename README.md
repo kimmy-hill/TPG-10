@@ -24,6 +24,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 Walkthrough Video:
+https://drive.google.com/file/d/1haeusrS0TkqkadnQTnWh8raf_ibSKVc6/view?usp=sharing
 
 HTML:
 <img width="1512" alt="Screen Shot 2022-05-23 at 3 19 39 PM" src="https://user-images.githubusercontent.com/95260935/169891177-ba81ca21-b2be-4c5c-b40a-9b214a576029.png">
